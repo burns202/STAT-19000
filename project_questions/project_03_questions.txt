@@ -1,0 +1,27 @@
+Project 3 Questions
+
+Due Date:  Thursday, September 20, 2018, by 5 PM
+
+ 
+
+Use R to revisit these questions.  They can each be accomplished with 1 line of code.
+
+ 
+
+[[It is OK to submit this project as a ".R" file in GitHub.  In the near future, I hope to move us into RMarkdown, but I don't want to overwhelm students with this at the start.  So just submit your ".R" files into GitHub.  *As always* please include your solution and also comments about your method of solution, so that the graders can quickly check your work!]]
+
+ 
+
+1.  As in Project 1, question 2:  In the year 2005, did United or Delta have more flights?
+
+ 
+
+2.  As in Project 2, question 2a:  Restricting attention to weekends (only), what was the average arrival delay (in minutes) for flights in 2005?
+
+ 
+
+3.  As in Project 1, question 3:  In June 2017, what is the distribution of the number of passengers in the taxi cab rides?
+
+ 
+
+4.  As in Project 2, question 3:   What is the average distance of a taxi cab ride in New York City in June 2017?

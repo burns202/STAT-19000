@@ -1,0 +1,28 @@
+Project 2 Questions
+
+Due Date:  Thursday, September 13, 2018, by 5 PM
+
+ 
+
+1.  Use the airline data stored in this directory:
+
+/depot/statclass/data/dataexpo2009
+
+1a. What was the average arrival delay (in minutes) for flights in 2005?
+
+1b. What was the average departure delay (in minutes) for flights in 2005?
+
+1cd. Now revise your solution to 1ab, to account for the delays (of both types) in the full set of data, across all years.
+
+
+2. Revise your solutions to 1abcd to only include flights that took place on the weekends.
+
+ 
+
+ 
+
+3.  Consider the June 2017 taxi cab data, which is located in this folder:
+
+/depot/statclass/data/taxi2018
+
+What is the average distance of a taxi cab ride in New York City in June 2017?
