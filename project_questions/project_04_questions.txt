@@ -1,0 +1,55 @@
+Project 4 Questions
+
+Due Date:  Thursday, September 27, 2018, by 5 PM
+
+ 
+
+Revisit the map code on the STAT 19000 webpage:
+
+http://www.stat.purdue.edu/datamine/19000/
+
+ 
+
+Goal:  Make a map of the State of Indiana, which shows all of Indiana's airports.
+
+ 
+
+Notes:
+
+You will need to install the ggmap package, which takes a few minutes to install.
+
+ 
+
+You can read in the data about the airports from the Data Expo 2009 Supplementary Data:
+
+ 
+
+http://stat-computing.org/dataexpo/2009/supplemental-data.html
+
+ 
+
+It will be necessary to extract (only) the airports with "state" equal to "IN"
+
+ 
+
+It is possible to either dynamically load the longitude and latitude of Indianapolis from Google,
+
+or to manually specify the longitude and latitude (e.g., by looking them up yourself in Google and entering them).
+
+ 
+
+After you plot the State of Indiana with all of the airports shown,
+
+you can print the resulting plot to a pdf file as follows:
+
+ 
+
+dev.print(pdf, "filename.pdf")
+
+ 
+
+Please submit your GitHub code in a ".R" file and also the resulting ".pdf" file.
+
+ 
+
+It is not (yet) necessary to submit your work in RMarkdown.
