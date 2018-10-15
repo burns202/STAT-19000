@@ -1,0 +1,51 @@
+Project 6 Questions
+
+Consider the election donation data:
+
+ 
+
+https://www.fec.gov/data/advanced/?tab=bulk-data
+
+ 
+
+from "Contributions by individuals" for 2017-18. Download this data.
+
+
+Unzip the file (in the terminal).
+
+ 
+
+Use the cat command to concatenate all of the files in the by_date folder into one large file (in the terminal).
+
+ 
+
+Read the data dictionary:
+
+ 
+
+https://www.fec.gov/campaign-finance-data/contributions-individuals-file-description/
+
+
+Hint: When working with a file that is not comma separated, you can use the read.delim command in R, and *be sure to specify* the character that separates the various pieces of data on a row.
+To do this, you can read the help file for read.delim by typing: ?read.delim
+(Look for the "field separator character".)
+
+Also there is no header, so also use header=F
+
+Question 1:  Rank the states according to how many times that their citizens contributed (i.e., total number of donations). Which 5 states made the largest numbers of contributions?
+
+Question 2:  Use awk in the terminal to verify your solution to question 1.
+
+Question 3:  Now (instead) rank the states according to how much money their citizens contributed (i.e., total amount of donations).  Which 5 states contributed the largest amount of money?
+
+(Optional!!) challenge question:  Use awk in the terminal to verify your solution to question 3.
+This can be done with 1 line of awk code, but you need to use arrays in awk,
+as demonstrated (for instance) on Andrey's solution on this page:
+https://unix.stackexchange.com/questions/242946/using-awk-to-sum-the-values-of-a-column-based-on-the-values-of-another-column/242949
+
+Submit your solutions in RMarkdown.
+For question 2 (and for the optional challenge question), it is OK to just
+put your code into your comments in RMarkdown,
+so that the TA's can see how you solved question 2,
+but (of course) the awk code does not run in RMarkdown!
+You are just showing the awk code to the TA's in this way!
