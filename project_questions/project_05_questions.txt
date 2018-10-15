@@ -1,0 +1,23 @@
+Project 5 Questions
+
+ 
+1a.  Compute the average distance for the flights on each airline in 2005.
+
+1b.  Sort the result from 1a, and make a dotchart to display the results in sorted order.  (Please display all of the values in the dotchart.)
+
+Hint:  You can use:
+
+?dotchart
+
+if you want to read more about how to make a dotchart about the data.
+
+
+2a.  Compute the average total amount of the cost of taxi rides in June 2017, for each pickup location ID.
+
+You can see which variables have the total amount of the cost of the ride, as well as the pickup location ID, if you look at the data dictionary for the yellow taxi cab rides, which you can download here:
+
+http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
+2b.  Sort the result from 2a, and make a dotchart to display the results in sorted order.  (Please ONLY display the results with value bigger than 80.)
+
+3.  Put the two questions above -- including your comments -- into an RMarkdown file.  Submit the .Rmd file itself and either the html or pdf output, when you submit your project in GitHub.
