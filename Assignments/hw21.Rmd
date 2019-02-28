@@ -1,0 +1,38 @@
+---
+title: "Project 21"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Name:**
+
+This project is supposed to be an easy modification of the project example, 
+since it is almost time for Spring Break! 
+
+Note:  Do not worry if some of the results have extra spaces.  We can 
+deal with that later! 
+
+**1.** Modify the NPS example to extract the city location for every 
+National Park.
+```{r}
+# Place code here
+```
+Explain solution:
+
+**2.** Same question, for the state location for every National Park. 
+```{r}
+# Place code here
+```
+Explain solution:
+
+**3.** Same question, for the zip code for every National Park. 
+```{r}
+# Place code here
+```
+Explain solution:
+
+
+
