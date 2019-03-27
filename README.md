@@ -7,7 +7,7 @@ The official STAT 19000 GitHub repository
 ## Table of Contents
 - [Homework format guidelines](#homework-format-guidelines)
 - [How to submit assignments](#how-to-submit-assignments)
-- [Grading guidelines](#grading-guidelines)
+- [Grading policy](#grading-policy)
 - [Office hours](#office-hours)
 
 
@@ -76,7 +76,7 @@ If all went well, you should now see your submitted work in your assignment repo
 
 > If you are comfortable with git and wish to use the command line to submit assignments, feel free to do so!
 
-## Grading guidelines
+## Grading policy
 - The course grading policy can be found [here](http://www.stat.purdue.edu/datamine/19000/submission.html/)
 - All grades will be posted on [Blackboard](https://mycourses.purdue.edu/)
 
