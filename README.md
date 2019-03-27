@@ -5,46 +5,13 @@ The official STAT 19000 GitHub repository
 - Class time: Thursdays at 5:00 -- 5:50 PM @ Hillenbrand dining court atrium
 
 ## Table of Contents
-- [Create a GitHub account](#create-a-github-account)
-- [Homework guidelines](#homework-guidelines)
+- [Homework format guidelines](#homework-format-guidelines)
 - [How to submit assignments](#how-to-submit-assignments)
 - [Grading guidelines](#grading-guidelines)
 - [Office hours](#office-hours)
 
 
-## Create a GitHub Account
-If you already have a GitHub account, do not worry about making a new one-- just skip this part!
-
-- Go to github.com
-- Fill in the sign-up form on the main page and press 'Sign up for GitHub'
-
-Example sign up form:
-![](images/readme/signup_1.png)
-
-- On the next page, press the green 'continue' button:
-![](images/readme/signup_2.png)
-
-- The next portion is a survey. Fill it out, or press 'skip this step':
-![](images/readme/signup_3.png)
-
-
-You are now the proud owner of a GitHub account! The next step is to add your name to your profile, so we can better identify you.
-
-- Press your profile icon and click 'Your profile' from the dropdown:
-![](images/readme/add_name_1.png)
-
-- On your profile page, click 'Edit profile':  
-![](images/readme/add_name_2.png)
-
-- Add your name, first and last:  
-![](images/readme/add_name_3.png)
-
-- Press 'Update profile' to save your changes.
-
-**Once you are done creating your account, email your name, purdue ID, and GitHub username to Dr. Ward (mdw@purdue.edu) so we can create your assignment repository!**
-
-
-## Homework guidelines
+## Homework format guidelines
 - We **insist** that everyone document sources of help during the projects.
 	- It is **not** OK to copy-and-paste code from classmates or from the web.
 	- If a classmate or a website is helpful to you, that is OK as long as you document the source of help, and as long as you still create your own solution and make your own individual comments about the code.
@@ -91,9 +58,9 @@ Continue to the [next section](#how-to-submit-assignments) to learn how to submi
     - If you can't find an invite, navigate to https://github.com/thedatamine/FIRSTNAME-LASTNAME
     - If you still can't find an invite, the TAs may not have your repository set up yet, or may have forgotten to send you an invite. Feel free to send any one of them an email if the above does not work.
 - Accept the invite
-- Continue to the [next step](#for-return-customers)
+- Continue to the [next step](#submitting-assignments)
 
-### For return customers
+### Submitting assignments
 - Go to https://github.com/thedatamine
 - Click on the repository named after you (ex. Peggy-Sue):
 ![](images/readme/submit_1.png)
@@ -107,13 +74,12 @@ Continue to the [next section](#how-to-submit-assignments) to learn how to submi
 
 If all went well, you should now see your submitted work in your assignment repository!
 
+> If you are comfortable with git and wish to use the command line to submit assignments, feel free to do so!
 
 ## Grading guidelines
-- Each project will be out of 10 points
+- The course grading policy can be found [here](http://www.stat.purdue.edu/datamine/19000/submission.html/)
 - All grades will be posted on [Blackboard](https://mycourses.purdue.edu/)
-
-Project deadlines are subject to change if the majority of individuals have not finished the project. Once a project deadline has passed however, we will reduce by 10 percent per day from the individuals who have not submitted their project solutions.
 
 
 ## Office hours
-Detailed office hours and contact information can be found [here](http://www.stat.purdue.edu/datamine/19000/)
+Detailed office hours and contact information can be found on the course page [here](http://www.stat.purdue.edu/datamine/19000/)
